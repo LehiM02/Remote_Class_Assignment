@@ -1,0 +1,2 @@
+1/25/26:
+Git allows you to track changes made to files by editing and then adding, and committing those changes. Using git status you can see commits made over time, their comments, and a hash of the file.
