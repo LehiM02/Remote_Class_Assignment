@@ -6,3 +6,7 @@ Throughout your career you will often have to present a project or idea to peopl
 1: who is your audience?
 2: what are the goals?
 3: follow good design rules
+
+4/8/26:
+github is extremely useful for allowing teams to break up issues into small managable tasks and work on them without affecting the main branch of code.
+The team has also been able to use this to test certain concepts and get feedback from eachother before moving forward as a group. constantly talk to your team about what you're doing!
