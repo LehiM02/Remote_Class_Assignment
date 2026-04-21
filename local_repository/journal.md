@@ -13,3 +13,6 @@ The team has also been able to use this to test certain concepts and get feedbac
 
 4/13/2026
 while AI is extremely useful in helping to write the code for your program don't use it so much that you don't understand what the code is doing (super easy to do!)
+
+4/21/2026
+discussed security in class today. talked alot about netwroks and attack vectors. Being a good software engineer requires a broad understanding on technical topics (eg. networking, backend, frontend, hardware, ect.)
